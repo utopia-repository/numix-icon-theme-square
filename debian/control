@@ -1,0 +1,14 @@
+Source: numix-icon-theme-square
+Section: gnome
+Priority: optional
+Maintainer: James Lu <bitflip3@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/numixproject/numix-icon-theme-square
+
+Package: numix-icon-theme-square
+Architecture: all
+Depends: ${misc:Depends}, numix-icon-theme
+Description: Square icon theme from the Numix project
+ Numix Square is an icon theme using simple symbols and vivid background for a
+ fresh, swishy, and modern look.

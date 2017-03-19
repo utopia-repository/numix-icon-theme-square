@@ -1,0 +1,2 @@
+version=3
+https://github.com/numixproject/numix-icon-theme-square/tags .*/(\d\S*)\.tar\.gz
