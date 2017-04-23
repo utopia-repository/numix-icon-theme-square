@@ -1,12 +1,12 @@
+numix-icon-theme-square (1:17-04-05-0utopia1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- James Lu <bitflip3@gmail.com>  Sat, 22 Apr 2017 22:05:47 -0700
+
 numix-icon-theme-square (1:16-11-23-0utopia1) unstable; urgency=low
 
   * Package Numix Square icons, forked from the -circle packaging.
-
- -- James Lu <bitflip3@gmail.com>  Sun, 19 Mar 2017 16:43:37 -0700
-
-numix-icon-theme-circle (1:16-11-23-0utopia1) unstable; urgency=medium
-
-  * New upstream release.
   * Fix typo in last release's changelog ("Switch to non-native packaging",
     not "Switch to native packaging")
 
