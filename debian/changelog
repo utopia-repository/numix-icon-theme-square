@@ -1,4 +1,4 @@
-numix-icon-theme-square (1:19.05.07-0utopia1) UNRELEASED; urgency=medium
+numix-icon-theme-square (1:19.05.07-0utopia1) unstable; urgency=medium
 
   * New upstream release.
   * debian/:
@@ -6,7 +6,7 @@ numix-icon-theme-square (1:19.05.07-0utopia1) UNRELEASED; urgency=medium
     - Update my email.
     - Bump to debhelper 12.
 
- -- James Lu <james@overdrivenetworks.com>  Sun, 12 May 2019 01:05:09 -0700
+ -- James Lu <james@overdrivenetworks.com>  Sun, 12 May 2019 16:10:58 +0800
 
 numix-icon-theme-square (1:18-02-16-0utopia1) unstable; urgency=low
 
