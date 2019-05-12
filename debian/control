@@ -1,9 +1,9 @@
 Source: numix-icon-theme-square
 Section: gnome
 Priority: optional
-Maintainer: James Lu <bitflip3@gmail.com>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 4.1.1
+Maintainer: James Lu <james@overdrivenetworks.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.3.0
 Homepage: https://github.com/numixproject/numix-icon-theme-square
 Vcs-Git: https://github.com/utopia-repository/numix-icon-theme-square
 Vcs-Browser: https://github.com/utopia-repository/numix-icon-theme-square
